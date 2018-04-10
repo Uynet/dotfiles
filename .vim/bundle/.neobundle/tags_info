@@ -1,0 +1,5 @@
+lightline.vim
+neocomplcache.vim
+nerdtree
+tagbar
+vim-glsl
